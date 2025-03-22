@@ -14,6 +14,7 @@ This is a simple chatbot built using Python, spaCy, and Hugging Face Transformer
    git clone https://github.com/hamzadaoud/pybotV1.git
 2.Install dependencies:
    - pip install -r requirements.txt
+
 3. Run the chatbot:
    - python main.py
    
