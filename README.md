@@ -17,6 +17,6 @@ pip install -r requirements.txt
 Run the chatbot:
 
 python main.py
-Author
-Hamza Daoud
+## Author.
+   Hamza Daoud
 
