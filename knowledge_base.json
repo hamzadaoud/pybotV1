@@ -1,0 +1,16 @@
+{
+    "hello": "Hi there!",
+    "hi": "Hi there!",
+    "hey": "Hi there!",
+    "how are you?": "I'm just a chatbot, but I'm doing great!",
+    "how's it going?": "I'm just a chatbot, but I'm doing great!",
+    "how are you doing?": "I'm just a chatbot, but I'm doing great!",
+    "what is your name?": "I'm your friendly chatbot!",
+    "what can you do?": "I can answer questions, solve math problems, and learn new things!",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "what is AI?": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.",
+    "what is the capital of france?": "The capital of France is Paris.",
+    "what is the capital of germany?": "The capital of Germany is Berlin.",
+    "what is the capital of italy?": "The capital of Italy is Rome.",
+    "do you know me?": "I don't know who you are, could you tell me?"
+}
